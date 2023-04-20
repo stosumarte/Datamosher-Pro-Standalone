@@ -9,6 +9,10 @@ This is a compiled version of Akascape's Datamosher Pro for macOS, using py2app 
 ### Why did I make it?
 I was working on a digital animation projects for uni, and I realized not all my team mates were tech-savy enough to be able to install a Python program and use it. This made our workflow and lives easier.
 
+# DISCLAIMER
+This app was only tested on macOS versions 11-13 on Intel Macs. 
+Compatibility with older OSes and Apple Silicon machines is not assured. Please let me know if it works or not on other systems.
+
 # DOWNLOAD
 ### Just donwnload the latest version from the Releases tab.
 
