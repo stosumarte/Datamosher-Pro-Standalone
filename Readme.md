@@ -14,7 +14,7 @@ This app was only tested on macOS versions 11-13 on Intel Macs.
 Compatibility with older OSes and Apple Silicon machines is not assured. Please let me know if it works or not on other systems.
 
 # DOWNLOAD
-### Just donwnload the latest version from the Releases tab.
+### Just download the latest version from the Releases tab.
 
 # Installation?
 Copy Datamosher Pro.app to your Applications folder and enjoy. App is not signed, thus may require to open via ctrl+click and/or allow it in System Preferences/System Settings.
